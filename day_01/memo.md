@@ -1,4 +1,3 @@
-# python学习100天笔记记录
 ## Day 1 Python零基础教程快速上手_全程干货+实用技巧小白必看
 https://www.bilibili.com/video/BV1FT4y1R7sz?p=10&spm_id_from=pageDriver&vd_source=9a3365fff774e958354d6f2880eb6833
 
