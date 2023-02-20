@@ -1,6 +1,8 @@
 ## Day 2 python语言元素
 https://www.bilibili.com/video/BV1FT4y1R7sz?p=10&spm_id_from=pageDriver&vd_source=9a3365fff774e958354d6f2880eb6833
 
+
+### 运算符
 - 1、赋值运算符（=）
   - a = 4
   - b = 5
@@ -20,3 +22,8 @@ https://www.bilibili.com/video/BV1FT4y1R7sz?p=10&spm_id_from=pageDriver&vd_sourc
   - print( TRUE and FALSE)
   - print( TRUE and TURE)
   - print( FALSE OR FALSE)
+
+
+### VS Code 技巧：
+- 1、按住ctrl键，就能快速跳到源代码的定义，例如math.pi
+- 
