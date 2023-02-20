@@ -12,7 +12,7 @@ def Arithmetic(numbers):#计算算法平均数
 
 def Median(numbers):    #计算中位数
     new_numbers = list(map(int,numbers)) #使用map函数对列表每个元素运用int函数映射
-    new_numbers.sort()  # 注意，经常弄错
+    new_numbers.sort()  # 注意，经常弄错搞成将该值赋给一个新变量
     length = len(numbers)
 
     if length %2 == 0:
@@ -20,7 +20,9 @@ def Median(numbers):    #计算中位数
     else:
         mid_number = new_numbers[(length+1)//2]
     return mid_number
-fo = open("E:\\work\\九江学院\\python学习\\100days\\numbers.txt","r",encoding ="utf-8") # numbers.txt究竟放在哪个目录下属于同级目录呢？
+fo = open("E:\\work\\九江学院\\python学习\\100days\\numbers.txt","r",encoding ="utf-8")
+# numbers.txt究竟放在哪个目录下属于同级目录呢？
+# 经测试发现要将当前文件夹打开，然后把Txt文件存在与py文件同一个文件夹之下就可以
 ls = []
 for line in fo.readlines():
     line = line.replace("\n","")
