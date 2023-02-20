@@ -1,4 +1,4 @@
-## Day 1 Python零基础教程快速上手_全程干货+实用技巧小白必看
+## Day 1 python语言元素
 https://www.bilibili.com/video/BV1FT4y1R7sz?p=10&spm_id_from=pageDriver&vd_source=9a3365fff774e958354d6f2880eb6833
 
 - 1、VS code 添加注释模板，Ctrl+Shift+p 进入命令面板，输入snippets,点击输入新建全局代码片段文件，输入代码片段名字，然后插入下述代码  
