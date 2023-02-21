@@ -12,7 +12,7 @@ def Arithmetic(numbers):#计算算法平均数
 
 def Median(numbers):    #计算中位数
     new_numbers = list(map(int,numbers)) #使用map函数对列表每个元素运用int函数映射
-    new_numbers.sort()  # 注意，经常弄错搞成将该值赋给一个新变量
+    new_numbers.sort()  # 注意，经常弄错搞成将该值赋给一个新变量，那个方法是sorted方法，sorted_numbers=sorted(new_numbers)
     length = len(numbers)
 
     if length %2 == 0:
