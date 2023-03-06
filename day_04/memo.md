@@ -10,6 +10,7 @@ https://www.bilibili.com/video/BV1FT4y1R7sz?p=10&spm_id_from=pageDriver&vd_sourc
 　　print(i,"goodbye world")的区别 
 - 2、设置断点，进行单步调试，可以观察循环过程中每一个变量的变化
 - 断点位于代码序号的左侧，点击一下会出现红色圆点，然后开启运行中的调试模式，开始进行单补调试
+- 对于number_1 % i可以点击右键添加到监视变量中去
 ```Python
 """
 输入两个正整数，求最大公约数
