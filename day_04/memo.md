@@ -1,7 +1,7 @@
 ## Day 4 循环结构
 https://www.bilibili.com/video/BV1FT4y1R7sz?p=10&spm_id_from=pageDriver&vd_source=9a3365fff774e958354d6f2880eb6833
 
-- 1、for in 循环  
+- 1、for in 循环  （明确的知道循环执行的次数或者要对一个容器进行迭代）
 理解for i in range(10):  
 　　　　　　print(i,"hello world")  
       　　　print(i,"goodbye world")  
@@ -27,3 +27,4 @@ for i in range(1,min_number):
 print(gongyueshu)
 ```
 
+- 3、while循环适合不明确知道循环执行的次数
